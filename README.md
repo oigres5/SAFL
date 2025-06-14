@@ -8,8 +8,10 @@
 		
 	-Deepfake: 2095 samples
 		
-		1009 samples generated from [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)
-		613 samples generate with Android App, FaceApp https://play.google.com/store/apps/details?id=io.faceapp&pcampaignid=web_share
+		1009 samples generated from [https://thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+		613 samples generate with Android App, [FaceApp](https://play.google.com/store/apps/details?id=io.faceapp&pcampaignid=web_share)
+		453 samples from generated videos with DeepFaceLab
+		20 samples by Dall-E2
 	
 		
 	
@@ -20,10 +22,12 @@
 		This samples were select form Celeb-DF dataset.
 		
 	-Deepfake: 204 samples
+		200 generated with Avatarify
+		204 generated with DeepFaceLab
 	
 	
 **Audios**
 
-	-Real: 2000 samples in Spanish language	
+	-Real: 2000 samples in Spanish language extracted from LibriVox project audiobooks
 		
 	-Deepfake: 2000 samples generated with Text-To-Speech (TTS) method
