@@ -22,8 +22,8 @@
 		This samples were select form Celeb-DF dataset.
 		
 	-Deepfake: 204 samples
-		200 generated with Avatarify
-		204 generated with DeepFaceLab
+		100 generated with Avatarify
+		104 generated with DeepFaceLab
 	
 	
 **Audios**
