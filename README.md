@@ -8,7 +8,7 @@
 		
 	-Deepfake: 2095 samples
 		
-		1009 samples generated from https://thispersondoesnotexist.com/
+		1009 samples generated from [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)
 		613 samples generate with Android App, FaceApp https://play.google.com/store/apps/details?id=io.faceapp&pcampaignid=web_share
 	
 		
