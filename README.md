@@ -4,7 +4,7 @@
 
  -Real: 2102 samples
 
-  These samples were select from CelebA dataset.
+  - These samples were select from CelebA dataset.
 
  -Deepfake: 2095 samples
 
@@ -17,17 +17,17 @@
 	
 **Videos**
 
-	-Real: 212 samples
-		
-		These samples were select from Celeb-DF dataset.
-		
-	-Deepfake: 204 samples
-		100 generated with Avatarify
-		104 generated with DeepFaceLab
+ -Real: 212 samples
+
+  - These samples were select from Celeb-DF dataset.
+
+ -Deepfake: 204 samples
+  - 100 generated with Avatarify
+  - 104 generated with DeepFaceLab
 	
 	
 **Audios**
 
-	-Real: 2000 samples in Spanish language extracted from LibriVox project audiobooks
-		
-	-Deepfake: 2000 samples generated with Text-To-Speech (TTS) method
+ -Real: 2000 samples in Spanish language extracted from LibriVox project audiobooks
+	
+ -Deepfake: 2000 samples generated with Text-To-Speech (TTS) method
