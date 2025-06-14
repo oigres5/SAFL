@@ -9,9 +9,9 @@
  -Deepfake: 2095 samples
 
   - 1009 samples generated from [https://thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
-  - 613 samples generate with, [FaceApp](https://play.google.com/store/apps/details?id=io.faceapp&pcampaignid=web_share)
-  - 453 samples from generated videos with DeepFaceLab
-  - 20 samples by Dall-E2
+  -  613 samples generate with, [FaceApp](https://play.google.com/store/apps/details?id=io.faceapp&pcampaignid=web_share)
+  -  453 samples from generated videos with DeepFaceLab
+  -   20 samples by Dall-E2
 	
 		
 	
