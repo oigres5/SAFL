@@ -4,7 +4,7 @@
 
  -Real: 2102 samples
 
-  - These samples were select from CelebA dataset.
+  - These samples were selected from CelebA dataset.
 
  -Deepfake: 2095 (+300 Updated 06/2025)samples
 
@@ -20,7 +20,7 @@
 
  -Real: 212 samples
 
-  - These samples were select from Celeb-DF dataset.
+  - These samples were selected from Celeb-DF dataset.
 
  -Deepfake: 204 samples
   - 100 generated with Avatarify
