@@ -116,6 +116,20 @@ All future commits will include:
 - 2025-06-07  Initial public release of the SAFL dataset (v1.0).
   (Git commit: `3f6f20088360acfdcfbdde5186d4c7f67c775f89` on branch `main`).
 
+
+## Data Protection and Consent
+
+The “real” samples in SAFL are not recordings collected directly by the authors:
+
+- `images/real/`: contains a subset of face images taken from the CelebA dataset, released by its authors for non-commercial research.
+- `videos/real/`: contains a subset of face videos taken from the Celeb-DF dataset, released by its authors as a public benchmark for Deepfake forensics.
+- `audios/real/`: contains original audio files extracted from the LibriVox project (https://librivox.org/)
+
+No additional personal identifiers (e.g., names, social media accounts, or textual labels of individuals) are included in SAFL beyond the anonymous file naming used for the experiments. The dataset does not contain images or recordings collected from private individuals specifically for this work.
+
+Users of SAFL are responsible for ensuring that their use of the data complies with the original dataset licenses (e.g., CelebA, Celeb-DF) and with any applicable data protection regulation (such as GDPR when processing biometric data).
+
+
 ##  License
 This dataset is released under the following license:
 
