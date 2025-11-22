@@ -80,7 +80,28 @@ The repository is organized as follows:
  -Deepfake: 2000 samples generated with Text-To-Speech (TTS) method
  
 
- 
+## System Requirements
+
+The `src/` directory contains helper scripts that wrap or slightly adapt existing forensic and Deepfake-related tools from external projects.  
+The complete and up-to-date software requirements for each tool are documented in their original repositories, for example:
+
+- **ManTraNet** – https://github.com/ISICV/ManTraNet  
+- **Image Forgery Detection with CNN** – https://github.com/kPsarakis/Image-Forgery-Detection-CNN  
+- **Mesonet** – https://github.com/DariusAf/MesoNet  
+
+In our experiments, all scripts in `src/` were executed under the following minimum environment:
+
+### Software
+- Operating system: Linux (Ubuntu 20.04+) or Windows 10/11  
+- Python: 3.8 or higher  
+- Git: 2.25 or higher  
+- CUDA 11+ and NVIDIA drivers (only required for GPU-accelerated training/inference)  
+
+### Hardware
+- CPU: Quad-core processor or better  
+- RAM: at least 8 GB (16 GB recommended for video processing)  
+- Disk space: at least 20 GB free for datasets and intermediate results  
+- GPU (optional but recommended): NVIDIA GPU with ≥ 4 GB VRAM for DeepFaceLab-based workflows 
  
 ## Versioning and Commit Transparency
 
